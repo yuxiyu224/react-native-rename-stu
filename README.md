@@ -5,7 +5,7 @@
 
 Rename react-native app with just one command
 
-![react-native-rename](https://cloud.githubusercontent.com/assets/5106887/24444940/cbcb0a58-149a-11e7-9714-2c7bf5254b0d.gif)
+![react-native-rename](https://asciinema.org/a/lew8aHEVwQIMn70bB5VT2Zpsf)
 
 > This package assumes that you created your react-native project using `react-native init` or `expo bare workflow`.
 
