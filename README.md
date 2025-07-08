@@ -8,13 +8,6 @@ Rename react-native app with just one command
 [![asciicast](https://asciinema.org/a/lew8aHEVwQIMn70bB5VT2Zpsf.svg)](https://asciinema.org/a/lew8aHEVwQIMn70bB5VT2Zpsf)
 
 
-<!--Remove one image if your site handles dark-mode automatically-->
-![showhelp - light](/.dg/svg/showhelp-light.svg#gh-light-mode-only)
-![showhelp - dark](/.dg/svg/showhelp-dark.svg#gh-dark-mode-only)
-
-<!-- Self-testing badge (remove if not using CI yet) -->
-![Demo status](https://github.com/OWNER/REPO/actions/workflows/validate-dg.yml/badge.svg)
-
 > This package assumes that you created your react-native project using `react-native init` or `expo bare workflow`.
 
 **Note:** This package does not attempt to properly rename build artifacts such as `ios/build` or Cocoa Pod installation targets. After renaming your project you should clean, build, and reinstall third party dependencies to get it running properly with the new name.
